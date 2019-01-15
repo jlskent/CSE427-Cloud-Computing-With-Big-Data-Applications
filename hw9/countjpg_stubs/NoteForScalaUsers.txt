@@ -1,0 +1,20 @@
+For Scala users:
+You will have to compile your Scala program first. Here is one way to achieve this: Go to the following directory in your VM:
+
+$DEV1/exercices/spark-application/countjpgs
+
+Copy your Scala program into the src/main/scala folder in this directory.
+Now, run the following two commands:
+
+sudo service archiva start
+
+and then
+
+mvn package
+
+This invokes Apache Maven to compile your program with all required dependencies. You should now find a folder called target and within this folder you get your .jar file.
+
+Trouble-shooting:
+- make sure you have a file called pom.xml in your countjpg folder.
+- To submit your job add the package to refer to your program:
+-- class solution.CountJPG

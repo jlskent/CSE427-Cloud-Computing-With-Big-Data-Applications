@@ -1,0 +1,7 @@
+HW 4 is mostly a little coding to get an understanding of tool runner and partitioner. It is not difficult, however there are some suggestions that might be helpful
+-the API was updated, not sure if it is good idea to update it as well.
+-so here we have some API that is new to learners. I wish the instructions could be more systematic, or at least if there is some good resource of the API would be a great. For example, we need to read cache file. How about we set it in driver using addCacheFIle method? What do they do in Interface or class Configurable/Tool? I think there are multiple ways to do the work other than what is specified. But I ran into some snags. 
+
+
+At last it is the rating for this assignment. For time consumption, I will give 3 stars. In terms of helpfulness, I will give 3 stars. In terms of difficulty, I will give 2 stars. In terms of clarity of instruction, I will give 2 stars.
+

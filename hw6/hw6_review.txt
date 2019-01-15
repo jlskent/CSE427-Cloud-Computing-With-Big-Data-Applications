@@ -1,0 +1,5 @@
+This is  mostly about learning a easy topN list. The homework is mostly the content of the related lab. It is an easy assignment but we are able to have hands-on experience on implementing chaining jobs of the topic. There is also a good review of implementation since we are mostly doing it from scratch. Also there is review of previous concepts like combiners.
+
+
+At last it is the rating for this assignment. For time consumption, I will give 3 stars. In terms of helpfulness, I will give 3 stars. In terms of difficulty, I will give 3 stars. In terms of clarity of instruction, I will give 5 stars.
+

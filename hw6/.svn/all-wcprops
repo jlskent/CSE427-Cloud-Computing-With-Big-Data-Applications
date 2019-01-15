@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repositories/wuyang/!svn/ver/30/cse427s_fl18/hw6
+END
+hw6_review.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repositories/wuyang/!svn/ver/30/cse427s_fl18/hw6/hw6_review.txt
+END
+AggregateRatingsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repositories/wuyang/!svn/ver/30/cse427s_fl18/hw6/AggregateRatingsMapper.java
+END
+TopNMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repositories/wuyang/!svn/ver/30/cse427s_fl18/hw6/TopNMapper.java
+END
+TopNReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repositories/wuyang/!svn/ver/30/cse427s_fl18/hw6/TopNReducer.java
+END
+TopNDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repositories/wuyang/!svn/ver/30/cse427s_fl18/hw6/TopNDriver.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repositories/wuyang/!svn/ver/25/cse427s_fl18/hw6/README
+END
+AggregateRatings.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repositories/wuyang/!svn/ver/30/cse427s_fl18/hw6/AggregateRatings.java
+END
+SumReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repositories/wuyang/!svn/ver/30/cse427s_fl18/hw6/SumReducer.java
+END

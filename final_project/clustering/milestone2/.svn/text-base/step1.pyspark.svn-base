@@ -1,0 +1,31 @@
+#read data()
+data=sc.textFile("file:/home/cloudera/training_materials/dev1/data/devicestatus.txt")
+
+#import re
+import re
+
+#Split w/regex
+split= data.map(lambda x: re.split("[,|/]",x))
+
+#get length
+rdd = split.map(lambda x: (x, len(x)))
+
+#filter records with wrong length
+filter = rdd.filter(lambda x: x[1]==14)
+
+#get content then and the fields needed
+result = filter.map(lambda x: x[0]).map(lambda x: (x[12],x[13],x[0],x[1],x[2]))
+
+#filter out locations that have a latitude and longitude of 0.
+result2 = result.filter(lambda x: x[0] != '0' and x[1] != '0')
+
+
+#manufacturer and model name
+result3 = result2.map(lambda x: (x[0],x[1],x[2],x[3].split(" ")[0],x[3].split(" ")[1],x[4]))
+
+#save result
+result3.saveAsTextFile("/loudacre/devicestatus_etl")
+
+#in terminal copy result to local 
+#hadoop fs -get /loudacre/devicestatus_etl /home/cloudera/cse427s/final_project
+

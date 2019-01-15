@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repositories/wuyang/!svn/ver/28/cse427s_fl18/hw5
+END
+IndexReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repositories/wuyang/!svn/ver/27/cse427s_fl18/hw5/IndexReducer.java
+END
+hw5_review.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repositories/wuyang/!svn/ver/26/cse427s_fl18/hw5/hw5_review.txt
+END
+NameYearPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repositories/wuyang/!svn/ver/28/cse427s_fl18/hw5/NameYearPartitioner.java
+END
+WordCoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repositories/wuyang/!svn/ver/27/cse427s_fl18/hw5/WordCoMapper.java
+END
+InvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repositories/wuyang/!svn/ver/27/cse427s_fl18/hw5/InvertedIndex.java
+END
+IndexMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repositories/wuyang/!svn/ver/27/cse427s_fl18/hw5/IndexMapper.java
+END
+StringPairWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repositories/wuyang/!svn/ver/27/cse427s_fl18/hw5/StringPairWritable.java
+END
+WordCo.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repositories/wuyang/!svn/ver/27/cse427s_fl18/hw5/WordCo.java
+END
+SumReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repositories/wuyang/!svn/ver/27/cse427s_fl18/hw5/SumReducer.java
+END

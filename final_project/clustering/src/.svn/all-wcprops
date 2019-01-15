@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repositories/wuyang/!svn/ver/42/cse427s_fl18/final_project/clustering/src
+END
+dbpedia.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repositories/wuyang/!svn/ver/46/cse427s_fl18/final_project/clustering/src/dbpedia.py
+END
+synthetic.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repositories/wuyang/!svn/ver/46/cse427s_fl18/final_project/clustering/src/synthetic.py
+END
+kmeans.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repositories/wuyang/!svn/ver/46/cse427s_fl18/final_project/clustering/src/kmeans.py
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repositories/wuyang/!svn/ver/42/cse427s_fl18/final_project/clustering/src/.gitkeep
+END
+cloud.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repositories/wuyang/!svn/ver/46/cse427s_fl18/final_project/clustering/src/cloud.py
+END
